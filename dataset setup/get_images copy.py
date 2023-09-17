@@ -3,7 +3,7 @@ import csv
 import requests
 
 # Define your Google Street View API key
-api_key = 'AIzaSyBgcaWDsEfx9uno6NPJQiBkEnPBcjcKu5k'
+api_key = 'YOUR_API_KEY'
 
 # Define the directory where you want to save the street view images
 output_directory = 'street_view_image2'
